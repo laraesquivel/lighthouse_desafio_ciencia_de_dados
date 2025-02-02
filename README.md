@@ -2,9 +2,13 @@
 
 Lara Esquivel de Brito Santos
 
+Para isto é necessário a instalação do Git.
+
 ## Instalação de depêndencias e Execução 
 
-git clone 
+git clone  https://github.com/laraesquivel/lighthouse_desafio_ciencia_de_dados.git
+
+cd lighthouse_desafio_ciencia_de_dados
 
 ### Windows
 
